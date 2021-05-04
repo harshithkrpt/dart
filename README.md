@@ -23,9 +23,21 @@
 
 - Dart has warnings and errors
 
-
-| Keywords                                        |
-| ------------------------------------------------|
-| abstract  | else     | import    |  super       | 
-| as        | enum     | in        |  switch      |
-
+-------------------------------------------------
+abstract 2 	else 	import 2 	super
+as 2 	enum 	in 	switch
+assert 	export 2 	interface 2 	sync 1
+async 1 	extends 	is 	this
+await 3 	extension 2 	library 2 	throw
+break 	external 2 	mixin 2 	true
+case 	factory 2 	new 	try
+catch 	false 	null 	typedef 2
+class 	final 	on 1 	var
+const 	finally 	operator 2 	void
+continue 	for 	part 2 	while
+covariant 2 	Function 2 	rethrow 	with
+default 	get 2 	return 	yield 3
+deferred 2 	hide 1 	set 2 	 
+do 	if 	show 1 	 
+dynamic 2 	implements 2 	static 2 	 
+-------------------------------------------------
